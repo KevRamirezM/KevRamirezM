@@ -2,28 +2,28 @@
 
 <p align="center">
   <strong>Computer Science & Engineering Student @ Tecnológico de Monterrey</strong><br>
-  Full-Stack Developer • AI Engineer • Startup Founder
+  Developer • AI Engineer
 </p>
 
 ---
 
-# 🚀 About Me
+# About Me
 
-I'm a Computer Science & Engineering student at Tecnológico de Monterrey passionate about:
+I build stuff:
 
-- 🤖 Artificial Intelligence
-- 💻 Full-Stack Development
-- 📊 AI-powered software
-- ⚡ High-performance Web Applications
-- 🧠 Building products that solve real-world problems
+- Artificial Intelligence
+- Full-Stack Development
+- AI-powered software
+- High-performance Web Apps
+- Building products that solve real-world problems
 
-Currently building **Rédito**, an AI-powered personal finance app.
+Currently focused on **[Rédito](https://www.reditoapp.com)**, AI-powered personal finance app.
 
 ---
 
-# 🛠️ Tech Stack
+# Tech Stack
 
-## 👨‍💻 Languages
+## Languages
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
@@ -36,7 +36,7 @@ Currently building **Rédito**, an AI-powered personal finance app.
 
 ---
 
-## ⚙️ Frameworks & Tools
+## Frameworks & Tools
 
 <p>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
@@ -49,19 +49,10 @@ Currently building **Rédito**, an AI-powered personal finance app.
 
 ---
 
-## 🤖 Artificial Intelligence
 
-<p>
-  <img src="https://img.shields.io/badge/Gemini_API-4285F4?style=flat&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white" />
-</p>
+# Contact
 
----
-
-
-# 📫 Contact
-
-💼 LinkedIn: linkedin.com/in/kevinalexramirez  
+LinkedIn: linkedin.com/in/kevinalexramirez  
 
 ---
 
