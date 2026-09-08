@@ -5,7 +5,7 @@
   Developer • AI Engineer
 </p>
 
-I build stuff:
+i build stuff:
 
 - Artificial Intelligence
 - Full-Stack Development
