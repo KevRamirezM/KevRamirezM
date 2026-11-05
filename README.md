@@ -11,7 +11,7 @@ i build stuff:
 - high-performance web apps
 - building software that solves real-world problems
 
-currently focused on **[rédito](https://www.reditoapp.com)**, AI-powered personal finance app.
+currently working on **[rédito](https://www.reditoapp.com)**, AI-powered personal finance app.
 
 ---
 
