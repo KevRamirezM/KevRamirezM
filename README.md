@@ -2,7 +2,6 @@
 
 <p align="center">
   <strong>Computer Science & Engineering Student @ Tecnológico de Monterrey</strong><br>
-  Developer • AI Engineer
 </p>
 
 i build stuff:
