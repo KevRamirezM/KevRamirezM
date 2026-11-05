@@ -1,22 +1,21 @@
 <h1 align="center">Kevin Alexander Ramirez Mendez</h1>
 
 <p align="center">
-  <strong>Computer Science & Engineering Student @ Tecnológico de Monterrey</strong><br>
+  <strong>CS Student @ Tecnológico de Monterrey</strong><br>
 </p>
 
 i build stuff:
 
-- Artificial Intelligence
-- Full-Stack Development
-- AI-powered software
-- High-performance Web Apps
-- Building products that solve real-world problems
+- artificial intelligence
+- full-stack development
+- high-performance web apps
+- building software that solves real-world problems
 
-Currently focused on **[Rédito](https://www.reditoapp.com)**, AI-powered personal finance app.
+currently focused on **[rédito](https://www.reditoapp.com)**, AI-powered personal finance app.
 
 ---
 
-## Tech Stack
+## tech stack:
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![C++](https://img.shields.io/badge/-C%2B%2B-05122A?style=flat&logo=c%2B%2B&logoColor=00599C)&nbsp;
