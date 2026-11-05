@@ -36,7 +36,7 @@ currently focused on **[rédito](https://www.reditoapp.com)**, AI-powered person
 ---
 
 
-## Contact
+## contact:
 
-LinkedIn: linkedin.com/in/kevinalexramirez  
+linkedin: linkedin.com/in/kevinalexramirez  
 
